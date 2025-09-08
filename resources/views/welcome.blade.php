@@ -31,8 +31,8 @@
         }
 
         .hero-img img {
-            width: 280px;
-            height: 280px;
+            width: 400px;
+            height: 400px;
             object-fit: cover;
             border-radius: 50%;
             border: 4px solid cyan;
@@ -71,6 +71,33 @@
             /* espacio arriba y abajo */
             opacity: 0.7;
         }
+
+        .section-box {
+            background: rgba(255, 255, 255, 0.05);
+            /* un toque transparente sobre el fondo gris */
+            border-radius: 10px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            color: white;
+            /* texto en blanco */
+        }
+
+        .section-box h2 {
+            color: cyan;
+            margin-bottom: 1rem;
+            font-size: 1.8rem;
+            text-align: center;
+        }
+
+        .section-box p {
+            color: #ddd;
+            /* gris claro para el texto */
+            font-size: 1rem;
+            line-height: 1.6;
+            text-align: center;
+            margin: 0 auto;
+            max-width: 700px;
+        }
     </style>
 </head>
 
@@ -90,6 +117,21 @@
                 Bienvenido a mi biografía. Aquí comparto mi historia, mi formación académica,
                 mi experiencia y mis aspiraciones futuras.
             </p>
+        </div>
+    </section>
+
+    <hr class="section-divider">
+
+    <section class="section-box" id="origen">
+        <h2>Lugar de nacimiento y procedencia</h2>
+        <p>
+            Nací en <strong>Floridablanca, Santander (Colombia)</strong>, el <strong>3 de mayo del 2001</strong>.
+            Vivo con mis padres, <strong>Diana María Mantilla Chacón</strong> y <strong>Wilson Suárez Jaimes</strong>.
+            No tengo hermanos, por lo que mi familia está compuesta únicamente por mis padres y yo.
+        </p>
+            <br>
+        <div class="hero-img">
+            <img src="foto_2.jpg" alt="Wilson Suarez">
         </div>
     </section>
 
