@@ -266,6 +266,7 @@
         <h2>Habilidades</h2>
         <ul class="habilidades">
             <li>Administración y mantenimiento de equipos de cómputo</li>
+            <li>Manejo de Git /GitHub y paquete de Office</li>
         </ul>
     </section>
 
