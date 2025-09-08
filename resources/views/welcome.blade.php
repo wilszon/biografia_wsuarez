@@ -202,6 +202,28 @@
 
     <hr class="section-divider">
 
+    <section class="section-box" id="metas">
+        <h2>Metas y Aspiraciones</h2>
+        <p>
+            Entre mis principales metas se encuentra culminar mi carrera de <strong>Ingeniería de Sistemas</strong> y,
+            de manera inmediata, continuar con una <strong>maestría enfocada en desarrollo de software</strong>, área
+            que me apasiona y en la que deseo especializarme. También aspiro a mejorar mis habilidades en
+            <strong>inglés</strong> para fortalecer mi comunicación y abrirme a mejores oportunidades laborales a nivel
+            internacional. Otro de mis grandes sueños es <strong>viajar por el mundo</strong>, con especial interés en
+            conocer <strong>Japón</strong>, un país que siempre me ha llamado la atención por su cultura y avances
+            tecnológicos. Más allá de lo profesional, mi objetivo es alcanzar una vida equilibrada en la que pueda tener
+            un buen empleo, estabilidad económica y, sobre todo, la tranquilidad de disfrutar lo que hago cada día.
+        </p>
+        <br>
+        <div class="hero-img">
+            <img src="https://media.istockphoto.com/id/1223320690/es/foto/tokyo-rush-hour-commuters-calles-nocturnas-de-ne%C3%B3n-de-shimbashi-jap%C3%B3n.jpg?s=612x612&w=0&k=20&c=a-6P4MzH1t55yydEuVoJr7zrxTqJrtxKe8kPYv0EvZ0="
+                alt="Tokyo">
+        </div>
+    </section>
+
+    <hr class="section-divider">
+
+
 
 
 </body>
