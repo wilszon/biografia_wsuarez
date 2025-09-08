@@ -98,6 +98,43 @@
             margin: 0 auto;
             max-width: 700px;
         }
+
+
+
+        /* Estilos para la sección de Habilidades */
+        .seccion {
+            margin: 40px auto;
+            max-width: 800px;
+            text-align: center;
+        }
+
+        .seccion h2 {
+            color: cyan;
+            margin-bottom: 1rem;
+            font-size: 1.8rem;
+            text-align: center;
+            
+        }
+
+        .habilidades {
+            list-style: none;
+            padding: 0;
+        }
+
+        .habilidades li {
+            font-size: 18px;
+            margin: 10px 0;
+            padding: 10px;
+            background: cyan;
+            border-radius: 8px;
+            transition: 0.3s ease;
+            color: black;
+        }
+
+        .habilidades li:hover {
+            background: #dcdcdc;
+            color: black;
+        }
     </style>
 </head>
 
@@ -224,6 +261,13 @@
     <hr class="section-divider">
 
 
+    <!-- Sección de Habilidades -->
+    <section class="seccion">
+        <h2>Habilidades</h2>
+        <ul class="habilidades">
+            <li>Administración y mantenimiento de equipos de cómputo</li>
+        </ul>
+    </section>
 
 
 </body>
