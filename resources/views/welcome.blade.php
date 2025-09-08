@@ -251,6 +251,17 @@
             </p>
         </div>
 
+        <div class="experiencia-item">
+            <h3>Desarrollo de App móvil — Bus UNAB</h3>
+            <p><strong>Proyecto académico</strong> — Tecnologías Móviles (Semestre 2025-I)</p>
+            <p>
+                Desarrollé una aplicación móvil en <strong>Kotlin</strong> con integración de <strong>GPS en tiempo
+                    real</strong>, que actualizaba cada 3 segundos la ubicación del Bus UNAB, permitiendo a los usuarios
+                rastrear su recorrido de manera precisa y en vivo.
+            </p>
+        </div>
+
+
 
 </body>
 
