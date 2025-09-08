@@ -106,7 +106,7 @@
     <section class="hero">
         <!-- Imagen a la izquierda -->
         <div class="hero-img">
-            <img src="foto_1.jpg" alt="Wilson Suarez">
+            <img src="foto_111.jpg" alt="Wilson Suarez">
         </div>
 
         <!-- Texto a la derecha -->
@@ -182,6 +182,26 @@
     </section>
 
     <hr class="section-divider">
+
+    <section class="section-box" id="actualidad">
+        <h2>Actualidad</h2>
+        <p>
+            Actualmente me encuentro cursando el <strong>quinto semestre de Ingeniería de Sistemas en la Universidad
+                Autónoma de Bucaramanga (UNAB)</strong>, etapa en la que estoy completamente enfocado en mi formación
+            profesional y en alcanzar la meta de graduarme como ingeniero. Este proceso me ha permitido adquirir nuevos
+            conocimientos, desarrollar habilidades prácticas en programación y tecnología, y fortalecer mi disciplina
+            académica. Aunque gran parte de mi tiempo lo dedico a los estudios, también busco equilibrar mi vida
+            personal con actividades que me apasionan y me motivan a seguir adelante.
+        </p>
+        <br>
+        <div class="hero-img">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2xAmDcywQ-zIBEbMdNHtiP0PA6A0Cx8sAg&s"
+                alt="Wilson Suarez">
+        </div>
+    </section>
+
+    <hr class="section-divider">
+
 
 
 </body>
