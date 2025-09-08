@@ -129,9 +129,35 @@
             Vivo con mis padres, <strong>Diana María Mantilla Chacón</strong> y <strong>Wilson Suárez Jaimes</strong>.
             No tengo hermanos, por lo que mi familia está compuesta únicamente por mis padres y yo.
         </p>
-            <br>
+        <br>
         <div class="hero-img">
             <img src="foto_2.jpg" alt="Wilson Suarez">
+        </div>
+    </section>
+
+    <hr class="section-divider">
+
+
+    <section class="section-box" id="infancia">
+        <h2>Mi niñez</h2>
+        <p>
+            Mi infancia estuvo llena de momentos especiales y cambios de ciudad que marcaron mi crecimiento.
+            Durante tres años viví en <strong>Barranquilla</strong>, luego pasé cinco años en <strong>Santa
+                Marta</strong> y, finalmente, en el año <strong>2010</strong> llegué a <strong>Bucaramanga</strong>,
+            lugar donde me he quedado desde entonces.
+        </p>
+        <p>
+            Fueron años muy bonitos: me encantaba <strong>jugar al fútbol</strong>, pasar tiempo en el parque y
+            compartir salidas con mis padres.
+            En Santa Marta tuve una experiencia muy especial, pues allí llegó a mi vida mi primera mascota, un perro
+            llamado <strong>Toby</strong>, quien me acompañó en muchas aventuras y me enseñó lo valioso de tener un
+            amigo fiel.
+            Mi niñez, en general, la recuerdo con mucha alegría, rodeada de cariño, juegos y aprendizajes que han dejado
+            huella en lo que soy hoy en día.
+        </p>
+        <br>
+        <div class="hero-img">
+            <img src="foto_3.jpg" alt="Wilson Suarez">
         </div>
     </section>
 
