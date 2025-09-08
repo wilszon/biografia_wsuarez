@@ -98,6 +98,21 @@
             margin: 0 auto;
             max-width: 700px;
         }
+
+        .experiencia-item {
+            margin: 2rem 0;
+            padding: 1.5rem;
+            background: rgba(255, 255, 255, 0.05);
+            /* efecto transparente sobre gris */
+            border-left: 4px solid cyan;
+            border-radius: 8px;
+        }
+
+        .experiencia-item h3 {
+            color: cyan;
+            margin-bottom: 0.5rem;
+            text-align: center;
+        }
     </style>
 </head>
 
@@ -223,7 +238,18 @@
 
     <hr class="section-divider">
 
+    <section class="section-box" id="experiencia">
+        <h2>Experiencia Laboral</h2>
+        <p>A continuación comparto algunas de las experiencias laborales más importantes que han marcado mi camino.</p>
 
+        <div class="experiencia-item">
+            <h3>Técnico de Mantenimiento de Equipos de Cómputo</h3>
+            <p><strong>HAS LTDA</strong> — Trabajo temporal (Nov. 2024 – Ene. 2025)</p>
+            <p>
+                Realicé formateo, limpieza física y mantenimiento preventivo de equipos de cómputo, asegurando un
+                funcionamiento óptimo y prolongando la vida útil del hardware.
+            </p>
+        </div>
 
 
 </body>
