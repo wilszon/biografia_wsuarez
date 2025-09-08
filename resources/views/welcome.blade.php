@@ -31,8 +31,8 @@
         }
 
         .hero-img img {
-            width: 400px;
-            height: 400px;
+            width: 450px;
+            height: 450px;
             object-fit: cover;
             border-radius: 50%;
             border: 4px solid cyan;
@@ -123,7 +123,7 @@
     <hr class="section-divider">
 
     <section class="section-box" id="origen">
-        <h2>Lugar de nacimiento y procedencia</h2>
+        <h2>Lugar de Nacimiento y Procedencia</h2>
         <p>
             Nací en <strong>Floridablanca, Santander (Colombia)</strong>, el <strong>3 de mayo del 2001</strong>.
             Vivo con mis padres, <strong>Diana María Mantilla Chacón</strong> y <strong>Wilson Suárez Jaimes</strong>.
@@ -139,7 +139,7 @@
 
 
     <section class="section-box" id="infancia">
-        <h2>Mi niñez</h2>
+        <h2>Mi Niñez</h2>
         <p>
             Mi infancia estuvo llena de momentos especiales y cambios de ciudad que marcaron mi crecimiento.
             Durante tres años viví en <strong>Barranquilla</strong>, luego pasé cinco años en <strong>Santa
@@ -162,6 +162,27 @@
     </section>
 
     <hr class="section-divider">
+
+    <section class="section-box" id="adolescencia">
+        <h2>Mi Adolescencia</h2>
+        <p>
+            Mi adolescencia la viví en el <strong>Colegio José Elías Puyana</strong>, donde conocí grandes personas con
+            las que aún mantengo amistad y que hicieron de esta etapa algo muy especial. Fue allí donde poco a poco
+            descubrí mi gusto por la <strong>tecnología</strong> y los <strong>videojuegos</strong>, intereses que se
+            convirtieron en parte fundamental de mi vida y me motivaron a elegir mi camino profesional. Recuerdo con
+            cariño mi paso por <strong>onceavo grado</strong>, un año lleno de aprendizajes, preparación y sueños por
+            cumplir, mientras compartía momentos inolvidables con mis compañeros, participaba en actividades del colegio
+            y aprendía el valor del esfuerzo constante. Sin duda, esta etapa fue una de las más bonitas de mi vida y
+            dejó recuerdos que aún me acompañan.
+        </p>
+        <br>
+        <div class="hero-img">
+            <img src="foto_4.jpg" alt="Wilson Suarez">
+        </div>
+    </section>
+
+    <hr class="section-divider">
+
 
 </body>
 
