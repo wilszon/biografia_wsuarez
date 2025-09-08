@@ -261,7 +261,16 @@
             </p>
         </div>
 
-
+        <div class="experiencia-item">
+            <h3>Desarrollo de App móvil — Predicción de Deserción Estudiantil</h3>
+            <p><strong>Proyecto académico</strong> — Kotlin & Machine Learning (Semestre 2025-I)</p>
+            <p>
+                Implementé una aplicación móvil en <strong>Kotlin</strong> que incorporaba un modelo de <strong>Naïve
+                    Bayes</strong> para predecir la deserción estudiantil.
+                La app fue desplegada en un servidor gratuito en <strong>Railway</strong>, integrando aprendizaje
+                automático con desarrollo móvil.
+            </p>
+        </div>
 
 </body>
 
