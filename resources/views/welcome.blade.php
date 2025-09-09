@@ -98,21 +98,6 @@
             margin: 0 auto;
             max-width: 700px;
         }
-
-        .experiencia-item {
-            margin: 2rem 0;
-            padding: 1.5rem;
-            background: rgba(255, 255, 255, 0.05);
-            /* efecto transparente sobre gris */
-            border-left: 4px solid cyan;
-            border-radius: 8px;
-        }
-
-        .experiencia-item h3 {
-            color: cyan;
-            margin-bottom: 0.5rem;
-            text-align: center;
-        }
     </style>
 </head>
 
@@ -238,39 +223,8 @@
 
     <hr class="section-divider">
 
-    <section class="section-box" id="experiencia">
-        <h2>Experiencia Laboral</h2>
-        <p>A continuación comparto algunas de las experiencias laborales más importantes que han marcado mi camino.</p>
 
-        <div class="experiencia-item">
-            <h3>Técnico de Mantenimiento de Equipos de Cómputo</h3>
-            <p><strong>HAS LTDA</strong> — Trabajo temporal (Nov. 2024 – Ene. 2025)</p>
-            <p>
-                Realicé formateo, limpieza física y mantenimiento preventivo de equipos de cómputo, asegurando un
-                funcionamiento óptimo y prolongando la vida útil del hardware.
-            </p>
-        </div>
 
-        <div class="experiencia-item">
-            <h3>Desarrollo de App móvil — Bus UNAB</h3>
-            <p><strong>Proyecto académico</strong> — Tecnologías Móviles (Semestre 2025-I)</p>
-            <p>
-                Desarrollé una aplicación móvil en <strong>Kotlin</strong> con integración de <strong>GPS en tiempo
-                    real</strong>, que actualizaba cada 3 segundos la ubicación del Bus UNAB, permitiendo a los usuarios
-                rastrear su recorrido de manera precisa y en vivo.
-            </p>
-        </div>
-
-        <div class="experiencia-item">
-            <h3>Desarrollo de App móvil — Predicción de Deserción Estudiantil</h3>
-            <p><strong>Proyecto académico</strong> — Kotlin & Machine Learning (Semestre 2025-I)</p>
-            <p>
-                Implementé una aplicación móvil en <strong>Kotlin</strong> que incorporaba un modelo de <strong>Naïve
-                    Bayes</strong> para predecir la deserción estudiantil.
-                La app fue desplegada en un servidor gratuito en <strong>Railway</strong>, integrando aprendizaje
-                automático con desarrollo móvil.
-            </p>
-        </div>
 
 </body>
 
