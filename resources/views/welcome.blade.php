@@ -223,6 +223,25 @@
 
     <hr class="section-divider">
 
+    <section class="section-box" id="academia">
+        <h2>Academia</h2>
+        <br>
+        <h2>Colegio Tecnico Industrial Jose Elías Puyana</h2>
+        <br>
+        <div class="hero-img">
+            <img src="https://cxeducativa.colpuyana.edu.co/imagenes/login/slider-estudiante.jpg" alt="Colegio">
+        </div>
+        <br>
+        <p>
+            Estudié en el Colegio José Elías Puyana, donde viví una etapa muy especial de mi vida.
+            Allí conocí personas con las que aún mantengo amistad y descubrí mi interés por la tecnología
+            y los videojuegos. Fue una época de aprendizajes y experiencias que me ayudaron a crecer tanto en lo
+            académico como en lo personal.
+        </p>
+        <hr class="section-divider">
+    </section>
+
+
 
 
 
