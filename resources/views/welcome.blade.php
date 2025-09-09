@@ -99,6 +99,7 @@
             max-width: 700px;
         }
 
+<<<<<<< HEAD
         .experiencia-item {
             margin: 2rem 0;
             padding: 1.5rem;
@@ -113,6 +114,44 @@
             margin-bottom: 0.5rem;
             text-align: center;
         }
+=======
+
+
+        /* Estilos para la sección de Habilidades */
+        .seccion {
+            margin: 40px auto;
+            max-width: 800px;
+            text-align: center;
+        }
+
+        .seccion h2 {
+            color: cyan;
+            margin-bottom: 1rem;
+            font-size: 1.8rem;
+            text-align: center;
+
+        }
+
+        .habilidades {
+            list-style: none;
+            padding: 0;
+        }
+
+        .habilidades li {
+            font-size: 18px;
+            margin: 10px 0;
+            padding: 10px;
+            background: cyan;
+            border-radius: 8px;
+            transition: 0.3s ease;
+            color: black;
+        }
+
+        .habilidades li:hover {
+            background: #dcdcdc;
+            color: black;
+        }
+>>>>>>> habilidades
     </style>
 </head>
 
@@ -250,6 +289,20 @@
                 funcionamiento óptimo y prolongando la vida útil del hardware.
             </p>
         </div>
+    <!-- Sección de Habilidades -->
+    <section class="seccion">
+        <h3>Habilidades</h3>
+        <ul class="habilidades">
+            <li>Administración y mantenimiento de equipos de cómputo</li>
+            <li>Manejo de Git /GitHub y paquete de Office</li>
+            <li>Trabajo en equipo y resolución de problemas</li>
+            <h3>Conocimientos Técnicos</h3>
+            <ul class= "habilidades">
+                <li>Lenguajes: Python, PHP, Java, Kotlin, SQL y JavaScript</li>
+                <li>Frameworks: Laravel, React</li>
+            </ul>
+        </ul>
+    </section>
 
         <div class="experiencia-item">
             <h3>Desarrollo de App móvil — Bus UNAB</h3>
